@@ -26,8 +26,7 @@ I'm a **Full-Stack Developer** with expertise in:
 
 ### 🛠 My Projects
 
-- 🔹 **Factory Sarathi ERP** - A modular ERP for manufacturing industries.
-- 🔹 **IoT Home Automation** - Smart switch & API for MQTT-based device control.
-- 🔹 **JWT Auth Boilerplate** - A secure authentication setup with access & refresh tokens.
+- 🔹 **Manufacturing ERP** - A modular ERP for manufacturing industries.
+- 🔹 **CBS (Core Banking Services)** - A secure app, scalable, latency focused built with React.js and Django DRF.
 
 💡 *Passionate about scalable systems, clean architecture, and open-source contributions!*
