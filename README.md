@@ -14,7 +14,7 @@ I'm a **Full-Stack Developer** with expertise in:
 
 ### 📊 Most Used Technologies
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alapparate&layout=compact&theme=radical)
+![alap-parate's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alap-parate&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
 
 ### 🚀 Let's Connect!
 
