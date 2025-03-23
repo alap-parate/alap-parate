@@ -29,4 +29,4 @@ I'm a **Full-Stack Developer** with expertise in:
 - 🔹 **Manufacturing ERP** - A modular ERP for manufacturing industries.
 - 🔹 **CBS (Core Banking Services)** - A secure app, scalable, latency focused built with React.js and Django DRF.
 
-💡 *Passionate about scalable systems, clean architecture, and open-source contributions!*
+💡 *Passionate about scalable systems, clean architecture, provide solutioning and open-source contributions!*
