@@ -10,7 +10,7 @@ I'm a **Full-Stack Developer** with expertise in:
 
 ### 🌟 GitHub Stats
 
-![Alap's GitHub stats](https://github-readme-stats.vercel.app/api?username=alapparate&show_icons=true&theme=radical&count_private=true)
+![alap-parate's Stats](https://github-readme-stats.vercel.app/api?username=alap-parate&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
 
 ### 📊 Most Used Technologies
 
