@@ -2,11 +2,11 @@
 
 I'm a **Full-Stack Developer** with expertise in:
 
-- 🖥 **Frontend:** React.js, Next.js
-- ⚙ **Backend:** Django DRF, Express.js
-- 🔗 **Databases:** MariaDB, MySQL, Redis
+- 🖥 **Frontend:** React.js
+- ⚙ **Backend:** NestJS, Express.js
+- 🔗 **Databases:** MariaDB, Postgres, MySQL, Redis
 - 🚀 **Messaging & Queueing:** RabbitMQ
-- 🛠 **Other Skills:** REST APIs, Python, JavaScript, SQL, HTML, CSS
+- 🛠 **Other Skills:** REST APIs, TypeScript, SQL
 
 ### 🌟 GitHub Stats
 
