@@ -26,7 +26,6 @@ I'm a **Full-Stack Developer** with expertise in:
 
 ### 🛠 My Projects
 
-- 🔹 **Manufacturing ERP** - A modular ERP for manufacturing industries.
-- 🔹 **CBS (Core Banking Services)** - A secure app, scalable, latency focused built with React.js and Django DRF.
+- 🔹 **Trackspace** - An opensource enterprise-grade project management system.
 
 💡 *Passionate about scalable systems, clean architecture, provide solutioning and open-source contributions!*
