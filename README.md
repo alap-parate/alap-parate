@@ -25,6 +25,6 @@ I'm a **Full-Stack Developer** with expertise in:
 
 ### 🛠 My Projects
 
-- 🔹 **Trackspace** - An opensource enterprise-grade project management system.
+- 🔹 **strand-auth** - An opensource enterprise-grade authentication and authorization management system.
 
 💡 *Passionate about scalable systems, clean architecture, provide solutioning and open-source contributions!*
