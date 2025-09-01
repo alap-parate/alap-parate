@@ -62,7 +62,7 @@ Always striving to follow **best practices** and deliver clean, maintainable cod
 
 <p align="center"> 
   Visitor count:  
-  <img src="https://profile-counter.glitch.me/alap-parate/count.svg" />
+  ![Profile Views](https://komarev.com/ghpvc/?username=alap-parate&color=blue&style=flat)
 </p>
 
 ---
