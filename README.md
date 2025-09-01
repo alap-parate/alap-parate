@@ -37,7 +37,7 @@ Always striving to follow **best practices** and deliver clean, maintainable cod
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alap-parate&show_icons=true&theme=tokyonight" height="160"/>
