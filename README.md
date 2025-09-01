@@ -59,7 +59,7 @@ Always striving to follow **best practices** and deliver clean, maintainable cod
 - 🌐 [Portfolio Website](https://parate.tech)  
 
 ---
-  ![Profile Views](https://komarev.com/ghpvc/?username=alap-parate123&color=ff69b4&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=alap-parate&color=0db7ed&style=for-the-badge)
 ---
 
 ⭐️ _“Code is read more often than it is written. Write it for humans, then machines.”_  
