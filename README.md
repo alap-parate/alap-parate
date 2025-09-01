@@ -31,7 +31,7 @@ Always striving to follow **best practices** and deliver clean, maintainable cod
 ---
 
 ## 📂 Featured Projects
-🔹 **[Auth Service] - strand-auth(https://github.com/alap-parate/strand-auth)** – Switchable JWT/PASETO authentication with RBAC & ABAC  
+ 🔹 [Auth Service – strand-auth](https://github.com/alap-parate/strand-auth) – Switchable JWT/PASETO authentication with RBAC & ABAC
 
 *(more coming soon...)*  
 
